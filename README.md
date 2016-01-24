@@ -1,6 +1,6 @@
 # High-School-License
 
-My high school license
+My high school license.
 A waitress helper for any order.
 
 
