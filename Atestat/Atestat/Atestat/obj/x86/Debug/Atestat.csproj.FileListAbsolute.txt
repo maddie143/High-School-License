@@ -1,0 +1,36 @@
+C:\Users\Flavia\Desktop\Atestat\Atestat\obj\x86\Debug\Atestat.csprojResolveAssemblyReference.cache
+C:\Users\Flavia\Desktop\Atestat\Atestat\obj\x86\Debug\Atestat.Adauga.resources
+C:\Users\Flavia\Desktop\Atestat\Atestat\obj\x86\Debug\Atestat.Form1.resources
+C:\Users\Flavia\Desktop\Atestat\Atestat\obj\x86\Debug\Atestat.Meniudes.resources
+C:\Users\Flavia\Desktop\Atestat\Atestat\obj\x86\Debug\Atestat.Properties.Resources.resources
+C:\Users\Flavia\Desktop\Atestat\Atestat\obj\x86\Debug\Atestat.VizualizareComenzi.resources
+C:\Users\Flavia\Desktop\Atestat\Atestat\obj\x86\Debug\Atestat.csproj.GenerateResource.Cache
+D:\Mada\Downloads\Atestat\Atestat\Atestat\bin\Debug\Atestat.exe.config
+D:\Mada\Downloads\Atestat\Atestat\Atestat\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Mada\Downloads\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.Adauga.resources
+D:\Mada\Downloads\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.Form1.resources
+D:\Mada\Downloads\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.Meniudes.resources
+D:\Mada\Downloads\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.Properties.Resources.resources
+D:\Mada\Downloads\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.VizualizareComenzi.resources
+D:\Mada\Downloads\Atestat\Atestat\Atestat\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Mada\Downloads\Atestat\Atestat\Atestat\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Mada\Downloads\Atestat\Atestat\Atestat\bin\Debug\tabel.mdb
+D:\Mada\Downloads\Atestat\Atestat\Atestat\bin\Debug\Atestat.exe
+D:\Mada\Downloads\Atestat\Atestat\Atestat\bin\Debug\Atestat.pdb
+D:\Mada\Downloads\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.exe
+D:\Mada\Downloads\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.pdb
+D:\Mada\Downloads\Atestat\Atestat\Atestat\bin\Debug\app.config
+D:\Mada\Downloads\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.ModificareComenzi.resources
+D:\Mada\Downloads\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.AdaugMod.resources
+D:\Mada\Downloads\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.LogInPersonal.resources
+D:\Mada\Downloads\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.PersonalEx.resources
+D:\Mada\Downloads\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.SchimbaParola.resources
+F:\Atestat\Atestat\Atestat\bin\Debug\Atestat.exe.config
+F:\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.exe
+F:\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.pdb
+D:\Mada\Comput\New folder\Atestat\Atestat\Atestat\bin\Debug\Atestat.exe.config
+D:\Mada\Comput\New folder\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.exe
+D:\Mada\Comput\New folder\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.pdb
+D:\Liceu\Atestat\Atestat\Atestat\bin\Debug\Atestat.exe.config
+D:\Liceu\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.exe
+D:\Liceu\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.pdb
